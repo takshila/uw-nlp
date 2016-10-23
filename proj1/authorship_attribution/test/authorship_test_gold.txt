@@ -1,0 +1,15 @@
+authorship_test_000.txt	sir_arthur_conan_doyle
+authorship_test_001.txt	virginia_woolf
+authorship_test_002.txt	herbert_george_wells
+authorship_test_003.txt	herbert_george_wells
+authorship_test_004.txt	mark_twain
+authorship_test_005.txt	mark_twain
+authorship_test_006.txt	jane_austen
+authorship_test_007.txt	mark_twain
+authorship_test_008.txt	sir_arthur_conan_doyle
+authorship_test_009.txt	jane_austen
+authorship_test_010.txt	herbert_george_wells
+authorship_test_011.txt	sir_arthur_conan_doyle
+authorship_test_012.txt	virginia_woolf
+authorship_test_013.txt	jane_austen
+authorship_test_014.txt	virginia_woolf
