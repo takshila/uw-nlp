@@ -3,7 +3,7 @@
 Distributed semantic vectors, or embeddings, are trained directly from a large
 collection of natural language text without being tied to a specic NLP task
 
-Download pre-trained word vectors from [here](https://github.com/stanfordnlp/GloVe)
+Download pre-trained word vectors from <a href="https://github.com/stanfordnlp/GloVe" target="_blank">here</a>
 
 
 
