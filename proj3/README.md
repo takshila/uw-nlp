@@ -1,4 +1,13 @@
-# Embeddings
+# Analogy (Embeddings)
+
+Distributed semantic vectors, or embeddings, are trained directly from a large
+collection of natural language text without being tied to a specic NLP task
+
+Download pre-trained word vectors from [here](https://github.com/stanfordnlp/GloVe)
+
+
+
+Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. 
 
 The solution is in two parts part1.ipynb and part2.py
 
