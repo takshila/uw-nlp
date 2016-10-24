@@ -1,8 +1,6 @@
 
 # coding: utf-8
 
-# ## HOMEWORK 2
-
 # #### Saurabh Seth (sseth12@uw.edu)
 
 # In[1]:
