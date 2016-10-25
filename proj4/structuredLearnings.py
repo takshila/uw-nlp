@@ -1,8 +1,6 @@
 
 # coding: utf-8
 
-# ## HOMEWORK 5 - Structured Learning with Perceptrons
-
 # #### Saurabh Seth (sseth12@uw.edu)
 
 # In[1]:
