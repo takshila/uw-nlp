@@ -16,4 +16,4 @@ Named entities are phrases that contain the names of persons, organization, loca
 * Skip-gram --> Feature template using last to previous word and next to next word i.e. skipping previous and next word in the five word sequence.
 
 ### RUNNING THE APPLICATION
-Directly run hw5-structuredLearnings.py file in the same folder as that of ‘stories’ zip files and create a folder called dev to store intermediate files.
+Directly run **structuredLearnings.py** file in the same folder as that of ‘stories’ zip files and create a folder called dev to store intermediate files.
