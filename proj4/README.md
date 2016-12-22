@@ -1,5 +1,11 @@
 # Named-Entity Recognition with Structured Perceptrons
 
+Structured Perceptrons --> Classification with lots of features over structured models!
+
+Named-entity recognition (NER) (also known as entity identification, entity chunking and entity extraction) is a subtask of information extraction that seeks to locate and classify named entities in text into pre-defined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc.
+
+Relation Extraction is the task of identifying & classifying the semantic relations between entities in text. The relation extraction task can be treated as a sequence labelling problem & the performance of BIO & IO encoding schemes can be analyzed considering the conditional random field. The relation extraction task is treated as a structured sequence labelling problem where the application of the *Conditional Random Field* is most suitable.
+
 Directly run hw5-structuredLearnings.py file in the same folder as that of ‘stories’ zip files and create a dev folder to store intermediate files.
 
 OR
